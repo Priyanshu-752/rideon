@@ -16,13 +16,13 @@
       "supportsTablet": true,
       "bundleIdentifier": "com.priyanshu.rideon",
       "config": {
-                "googleMapsApiKey": "YOUR_GOOGLE_MAP_KEY"
+                "googleMapsApiKey": "AIzaSyDL7ic-hIdwr1n8uyllFgmcLUG3Um_kONM"
             }
     },
     "android": {
       "config": {
                 "googleMaps": {
-                    "apiKey": "YOUR_GOOGLE_MAP_KEY"
+                    "apiKey": "AIzaSyDL7ic-hIdwr1n8uyllFgmcLUG3Um_kONM"
                 }
             },
       "adaptiveIcon": {
@@ -41,7 +41,7 @@
       [
         "expo-location",
         {
-          "locationAlwaysAndWhenInUsePermission": "Allow $(PRODUCT_NAME) to use your location."
+          "locationAlwaysAndWhenInUsePermission": "Allow $(Ride On) to use your location."
         }
       ]
     ],
